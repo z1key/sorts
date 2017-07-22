@@ -10,4 +10,6 @@ Simple sort algorithms implemented on Java language
 * Shell's sort;
 * Merge sort;
 
+_To be continued..._
+
 You can also use test cases provided in `src/test` sources
