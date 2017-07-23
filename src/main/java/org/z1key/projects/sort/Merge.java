@@ -2,9 +2,6 @@ package org.z1key.projects.sort;
 
 import java.util.Arrays;
 
-/**
- * Created by User on 16.07.2017.
- */
 public class Merge {
 
     public static void sort(int[] array) {

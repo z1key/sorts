@@ -1,13 +1,7 @@
 package org.z1key.projects.sort;
 
-import org.openjdk.jmh.annotations.Benchmark;
-
-/**
- * Created by User on 15.07.2017.
- */
 public class Insertions {
 
-//    @Benchmark
     public static void sort(final int [] array) {
 
         for (int i = 0; i < array.length - 1; i++) {

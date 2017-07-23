@@ -1,8 +1,5 @@
 package org.z1key.projects.sort;
 
-/**
- * Created by User on 15.07.2017.
- */
 public class Shell {
 
     public static void sort(int[] array) {

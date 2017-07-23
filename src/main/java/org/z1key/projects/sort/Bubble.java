@@ -1,10 +1,5 @@
 package org.z1key.projects.sort;
 
-import java.util.Arrays;
-
-/**
- * Created by User on 15.07.2017.
- */
 public class Bubble {
 
     public static void sort(int[] array) {
