@@ -13,3 +13,5 @@ Simple sort algorithms implemented on Java language
 _To be continued..._
 
 You can also use test cases provided in `src/test` sources
+
+The simple benchmark included in tests displays execution time of each method in microseconds.
