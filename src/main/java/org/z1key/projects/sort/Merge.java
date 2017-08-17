@@ -32,11 +32,9 @@ public class Merge {
                 indexOfFirst++;
             } else {
                 if (array1[indexOfFirst] < array2[indexOfSecond]) {
-                    System.arraycopy(array1, indexOfFirst, target, targetIndex, 1);
-                    indexOfFirst++;
+                    target[targetIndex] = array1[indexOfFirst++];
                 } else {
-                    System.arraycopy(array2, indexOfSecond, target, targetIndex, 1);
-                    indexOfSecond++;
+                    target[targetIndex] = array2[indexOfSecond++];
                 }
             }
             targetIndex++;
